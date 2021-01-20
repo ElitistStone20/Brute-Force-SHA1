@@ -1,0 +1,13 @@
+C:\Users\Callum\source\repos\TestStuffIdk\TestStuffIdk\bin\Debug\netcoreapp3.1\TestStuffIdk.exe
+C:\Users\Callum\source\repos\TestStuffIdk\TestStuffIdk\bin\Debug\netcoreapp3.1\TestStuffIdk.deps.json
+C:\Users\Callum\source\repos\TestStuffIdk\TestStuffIdk\bin\Debug\netcoreapp3.1\TestStuffIdk.runtimeconfig.json
+C:\Users\Callum\source\repos\TestStuffIdk\TestStuffIdk\bin\Debug\netcoreapp3.1\TestStuffIdk.runtimeconfig.dev.json
+C:\Users\Callum\source\repos\TestStuffIdk\TestStuffIdk\bin\Debug\netcoreapp3.1\TestStuffIdk.dll
+C:\Users\Callum\source\repos\TestStuffIdk\TestStuffIdk\bin\Debug\netcoreapp3.1\TestStuffIdk.pdb
+C:\Users\Callum\source\repos\TestStuffIdk\TestStuffIdk\obj\Debug\netcoreapp3.1\TestStuffIdk.csprojAssemblyReference.cache
+C:\Users\Callum\source\repos\TestStuffIdk\TestStuffIdk\obj\Debug\netcoreapp3.1\TestStuffIdk.AssemblyInfoInputs.cache
+C:\Users\Callum\source\repos\TestStuffIdk\TestStuffIdk\obj\Debug\netcoreapp3.1\TestStuffIdk.AssemblyInfo.cs
+C:\Users\Callum\source\repos\TestStuffIdk\TestStuffIdk\obj\Debug\netcoreapp3.1\TestStuffIdk.csproj.CoreCompileInputs.cache
+C:\Users\Callum\source\repos\TestStuffIdk\TestStuffIdk\obj\Debug\netcoreapp3.1\TestStuffIdk.dll
+C:\Users\Callum\source\repos\TestStuffIdk\TestStuffIdk\obj\Debug\netcoreapp3.1\TestStuffIdk.pdb
+C:\Users\Callum\source\repos\TestStuffIdk\TestStuffIdk\obj\Debug\netcoreapp3.1\TestStuffIdk.genruntimeconfig.cache
